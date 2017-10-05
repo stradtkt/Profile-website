@@ -1,0 +1,106 @@
+@media screen and (max-width: 380px) {
+  html, body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+  }
+  .wrapper {
+    width: 370px !important;
+  }
+  .main {
+    width: 365px !important;
+  }
+  #main-header {
+    width: 360px !important;
+  }
+  .header {
+    width: 340px !important;
+    height: 200px !important;
+    position: relative;
+    right: 17px !important;
+  }
+  .first-h1 {
+    font-size: 23px !important;
+  }
+  .second-h1 {
+    font-size: 26px !important;
+  }
+  .shuffle-group {
+    width: 350px !important;
+    height: 250px !important;
+    position: relative;
+    right: 20px !important;
+    bottom: 10px;
+  }
+  .shuffle-me > .images img {
+    top: 10px;
+  }
+  .footer-row {
+    width: 350px !important;
+    height: 200px !important;
+    position: relative;
+    right: 15px;
+  }
+  .kevin,
+  .fa-fa-fa,
+  .my-number,
+  .my-email {
+    font-size: 15px !important;
+  }
+  .my-number {
+    padding: 10px 0 0 0;
+  }
+  .ui-tabs-nav {
+    position: relative;
+    right: 470px;
+    background-color: #ccc !important;
+  }
+  #home, #about, #contact {
+    background: linear-gradient(to top, #fff, #fff) !important;
+  }
+  .about-h1 {
+    font-size: 26px !important;
+  }
+  .subject-content {
+    width: 350px !important;
+    position: relative;
+    right: 20px;
+  }
+  .subject-content .lead {
+    font-size: 15px !important;
+  }
+  .subject-content .subject-title {
+    font-size: 19px !important;
+  }
+  .subject-content ul {
+    display: none;
+  }
+  #php {
+    height: 300px !important;
+  }
+  #jquery {
+    height: 400px !important;
+  }
+  #bootstrap {
+    height: 550px !important;
+  }
+  #wordpress {
+    height: 300px !important;
+  }
+  #customer-service {
+    height: 650px !important;
+  }
+  .form-row {
+    width: 355px !important;
+    position: relative;
+    right: 10px;
+  }
+  .message-text {
+    font-size: 20px !important;
+    color: #777;
+    text-shadow: 1px 1px 5px #fff;
+  }
+  .contact-h1 {
+    font-size: 23px !important;
+  }
+}

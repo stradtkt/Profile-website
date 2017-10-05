@@ -1,0 +1,199 @@
+/*==========================================
+=            iPhone 5 Landscape            =
+==========================================*/
+
+@media screen and (max-width: 570px) {
+ html {
+      height: 100%;
+    }
+    body {
+      padding: 0;
+      text-align: center;
+      font-family: 'Open Sans';
+      position: relative;
+      margin: 0;
+      height: 100%;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizelegibility;
+      overflow-x: hidden;
+    }
+
+    .header {
+      padding: 30px 0 0;
+      width: 492px !important;
+      background: white;
+    }
+    
+    .wrapper {
+      height: 100%;
+      margin: 0 auto; 
+      overflow: hidden;
+      width: auto;
+    }
+    .first-h1 {
+      font-size: 25px !important;
+    }
+    .second-h1 {
+      font-size: 55px !important;
+    }
+    .main {
+      width: auto;
+    }
+    .shuffle-me {
+      width: 430px !important;
+      
+    }
+    .shuffle-group {
+      width: 525px !important;
+      position: relative;
+      left: 13px;
+    }
+
+    .treehouse-row {
+      width: 481px !important;
+    }
+  .ui-tabs .ui-tabs-tab {
+    width: auto;
+    height: auto;
+  }
+  /*Tabs Specific Styles*/
+.home-btn {
+
+  font-size: 16px !important;
+  font-family: 'Acme', sans-serif !important;
+}
+.about-btn {
+
+  font-size: 16px !important;
+  font-family: 'Acme', sans-serif !important;
+}
+.contact-btn {
+
+  font-size: 16px !important;
+  font-family: 'Acme', sans-serif !important;
+}
+
+
+#about-tabs {
+  background: linear-gradient(to bottom, rgba(100,100,100,0.5), rgba(100,100,100,0.1));
+}
+
+.ui-tabs .jquery-ui-li,
+.ui-tabs .css-li,
+.ui-tabs .wordpress-li,
+.ui-tabs .php-li,
+.ui-tabs .javascript-li,
+.ui-tabs .jquery-li,
+.ui-tabs .bootstrap-li,
+.ui-tabs .customer-service-li {
+  width: auto;
+  height: auto;
+}
+.ui-tabs .ui-tabs-nav li .jquery-ui-a,
+.ui-tabs .ui-tabs-nav li .css-a,
+.ui-tabs .ui-tabs-nav li .wordpress-a,
+.ui-tabs .ui-tabs-nav li .php-a,
+.ui-tabs .ui-tabs-nav li .javascript-a,
+.ui-tabs .ui-tabs-nav li .jquery-a,
+.ui-tabs .ui-tabs-nav li .bootstrap-a,
+.ui-tabs .ui-tabs-nav li .customer-service-a {
+  font-family: 'Acme', sans-serif !important;
+  font-size: 13px !important;
+}
+
+.footer-row {
+  width: 490px !important;
+}
+
+.my-number {
+  font-size: 15px !important;
+}
+.my-email {
+  font-size: 15px !important;
+}
+.kevin {
+  font-size: 19px !important;
+}
+.fa-fa-fa {
+  font-size: 22px !important;
+}
+    #jquery-ui,
+    #css,
+    #treehouse,
+    #php,
+    #wordpress,
+    #customer-service,
+    #javascript,
+    #jquery,
+    #bootstrap {
+      width: 490px !important;
+    }
+
+       /*About Text Style*/
+    #jquery-ui .lead,
+    #css .lead,
+    #php .lead,
+    #wordpress .lead,
+    #javascript .lead,
+    #jquery .lead,
+    #bootstrap .lead,
+    #customer-service .lead {
+      font-family: 'Gentium Book Basic', serif;
+    }
+    #jquery-ui h3,
+    #css h3,
+    #php h3,
+    #wordpress h3,
+    #bootstrap h3,
+    #javascript h3,
+    #jquery h3,
+    #customer-service h3 {
+      font-size: 26px !important;
+      color: white;
+      font-family: 'Amaranth', sans-serif;
+    }
+    #css .lead,
+    #jquery-ui .lead,
+    #php .lead,
+    #wordpress .lead,
+    #javascript .lead,
+    #jquery .lead,
+    #bootstrap .lead,
+    #customer-service .lead {
+      font-size: 17px !important;
+      color: white;
+    }
+    .css-list,
+    .jquery-ui-list,
+    .php-list,
+    .wordpress-list,
+    .javascript-list,
+    .jquery-list,
+    .bootstrap {
+      font-family: 'Gentium Book Basic', serif;
+      list-style-type: none;
+    }
+    .css-list li,
+    .jquery-ui-list li,
+    .php-list li,
+    .wordpress-list li,
+    .javascript-list li,
+    .jquery-list li,
+    .bootstrap li {
+      font-size: 17px !important;
+      color: white;
+    }
+
+    .form-row {
+      width: 505px !important;
+    }
+    .about-h1 {
+      font-size: 55px !important;
+    }
+    .contact-h1 {
+      font-size: 55px !important;
+    }
+
+}
+
+/*=====  End of iPhone 5 Landscape  ======*/
