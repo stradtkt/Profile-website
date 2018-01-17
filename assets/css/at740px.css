@@ -19,10 +19,10 @@
       width: 660px !important;
       background: white;
     }
-    
+
     .wrapper {
       height: 100%;
-      margin: 0 auto; 
+      margin: 0 auto;
       overflow: hidden;
       width: auto;
     }
@@ -226,5 +226,11 @@
     }
  .treehouse-row {
       width: 665px !important;
+    }
+    .form-group input,
+    .form-group textarea,
+    #submit {
+        position: relative;
+        left: 0.1% !important;
     }
 }

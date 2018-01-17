@@ -46,7 +46,6 @@
     <a class=".fa-fa-fa" href="https://www.linkedin.com/in/kevin-stradtman-96b289146/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
 	</div>
 	<div class="col-sm-6">
-		<p class="my-number">Work Number: +1(513)-335-4304</p>
 		<p class="my-email">Email: stradtkt22@gmail.com</p>
 	</div>
 	</div>

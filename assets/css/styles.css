@@ -736,10 +736,14 @@ textarea[placeholder="Enter Your Message"]:-moz-placeholder { /* Firefox 18- */
   font-weight: 500;
   text-align: center;
 }
-
+.form-group {
+    margin: 0 auto;
+}
 .form-group input {
   padding: 20px 10px;
   margin: 28px 0;
+  position: relative;
+  left: 10%;
   font-family: 'Roboto', sans-serif;
   font-size: 20.5px;
   font-weight: bold;
@@ -752,6 +756,8 @@ textarea[placeholder="Enter Your Message"]:-moz-placeholder { /* Firefox 18- */
 .form-group textarea {
   padding: 5px 10px;
   margin: 28px 0;
+  position: relative;
+  left: 10%;
   font-family: 'Roboto', sans-serif;
   font-size: 22px;
   font-weight: bold;
@@ -780,6 +786,8 @@ em.error {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   font-weight: bold;
+  position: relative;
+  left: 10%;
 }
 
 .error-message {
@@ -903,7 +911,7 @@ button.btn {
         margin: 10px;
         /* Hide the control initially, to prevent it from appearing
            before the map loads. */
-    
+
       }
       /* Display the control once it is inside the map. */
       #map .map-control { display: block; }

@@ -19,10 +19,10 @@
       width: 591px !important;
       background: white;
     }
-    
+
     .wrapper {
       height: 100%;
-      margin: 0 auto; 
+      margin: 0 auto;
       overflow: hidden;
       width: auto;
     }
@@ -185,8 +185,14 @@
       bottom: 40px;
       left: 140px;
     }
+    .treehouse-row {
+         width: 570px !important;
+       }
 
-}
- .treehouse-row {
-      width: 570px !important;
+    .form-group input,
+    .form-group textarea,
+    #submit {
+        position: relative;
+        left: 0.1% !important;
     }
+}

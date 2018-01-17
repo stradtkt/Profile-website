@@ -18,15 +18,16 @@
       overflow-x: hidden;
     }
 
+
     .header {
       padding: 30px 0 0;
       width: 492px !important;
       background: white;
     }
-    
+
     .wrapper {
       height: 100%;
-      margin: 0 auto; 
+      margin: 0 auto;
       overflow: hidden;
       width: auto;
     }
@@ -41,7 +42,7 @@
     }
     .shuffle-me {
       width: 430px !important;
-      
+
     }
     .shuffle-group {
       width: 525px !important;
@@ -193,7 +194,12 @@
     .contact-h1 {
       font-size: 55px !important;
     }
-
+    .form-group input,
+    .form-group textarea,
+    #submit {
+        position: relative;
+        left: 0.1% !important;
+    }
 }
 
 /*=====  End of iPhone 5 Landscape  ======*/

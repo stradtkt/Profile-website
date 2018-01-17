@@ -20,10 +20,10 @@
       width: 700px !important;
       background: white;
     }
-    
+
     .wrapper {
     	height: 100%;
-    	margin: 0 auto; 
+    	margin: 0 auto;
     	overflow: hidden;
     	width: auto;
     }
@@ -92,7 +92,6 @@
   font-family: 'Acme', sans-serif !important;
   font-size: 15px !important;
 }
-}
 .footer-row {
 	width: 750px !important;
 }
@@ -108,7 +107,7 @@
 }
 .fa-fa-fa {
 	font-size: 24px !important;
-} 
+}
     #css,
     #jquery-ui,
     #treehouse,
@@ -183,3 +182,10 @@
     .treehouse-row {
       width: 679px !important;
     }
+    .form-group input,
+    .form-group textarea,
+    #submit {
+        position: relative;
+        left: 0.1% !important;
+    }
+}
